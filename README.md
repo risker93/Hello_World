@@ -1,4 +1,4 @@
 # king
-These are examples, study and project.
+These are examples, studies, projects.
 Hello World!
 I'm the king of the world!
